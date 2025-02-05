@@ -1,13 +1,12 @@
 ---
 # Display name
-title: 吳健雄
+# title: 吳健雄
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Maddock
+last_name: Aidan
 
 # Status emoji
 status:
@@ -20,9 +19,9 @@ superuser: true
 role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+#organizations:
+ # - name: GenCoin
+  #  url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,7 +39,7 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: BA Double Honours Economics and Geography
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
